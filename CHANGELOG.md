@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/jakewan/semantic-release-sandbox-3/compare/2.0.1...3.0.0) (2021-06-26)
+
+
+### Features
+
+* Move Feature 2 to Feature 2b ([092d1e1](https://github.com/jakewan/semantic-release-sandbox-3/commit/092d1e1ddd05654eb412a35d2470933b8a335f2b))
+
+
+### BREAKING CHANGES
+
+* Feature 2 is removed
+
 ## [2.0.1](https://github.com/jakewan/semantic-release-sandbox-3/compare/2.0.0...2.0.1) (2021-06-26)
 
 
