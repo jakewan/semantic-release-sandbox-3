@@ -22,4 +22,3 @@ jobs:
           semantic_version: 17.4.x
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DEBUG: semantic-release:*
