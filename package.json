@@ -1,0 +1,8 @@
+{
+  "name": "semantic-release-sandbox-3",
+  "private": true,
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0"
+  }
+}
