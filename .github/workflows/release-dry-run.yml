@@ -1,0 +1,30 @@
+name: Release - Dry Run
+
+on:
+  push:
+    branches-ignore:
+      - v[0-9]+
+
+jobs:
+  release-dry-run:
+    name: Release - Dry Run
+    runs-on: ubuntu-latest
+    steps:
+      - uses: technote-space/auto-cancel-redundant-workflow@v1
+
+      - uses: actions/checkout@v2
+
+      - run: npm ci
+
+      - name: Inject slugs
+        uses: rlespinasse/github-slug-action@35d90c4a713487c48ff93473fdff93e8dc1469f3
+
+      - name: Semantic Release
+        uses: cycjimmy/semantic-release-action@ed6729b716d281c2c4058d3553f3229a80203a79
+        with:
+          semantic_version: 17.4.x
+          branches: ${{ env.GITHUB_REF_SLUG_CS }}
+          dry_run: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEBUG: semantic-release:*
