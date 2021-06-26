@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/jakewan/semantic-release-sandbox-3/compare/1.1.0...2.0.0) (2021-06-26)
+
+
+### Code Refactoring
+
+* Remove Feature 1 ([65a3a8a](https://github.com/jakewan/semantic-release-sandbox-3/commit/65a3a8a08c2fa6c4d2e0ddb64629ee5bebc5e617))
+
+
+### Features
+
+* Add Feature 3 ([7db09f8](https://github.com/jakewan/semantic-release-sandbox-3/commit/7db09f838f85564514c596fe3fd338059550345c))
+
+
+### BREAKING CHANGES
+
+* Feature 3 replaces Feature 1
+
 # [1.1.0](https://github.com/jakewan/semantic-release-sandbox-3/compare/1.0.0...1.1.0) (2021-06-26)
 
 
