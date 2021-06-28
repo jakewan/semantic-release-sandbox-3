@@ -1,3 +1,10 @@
+# [3.1.0-jacob-beta.2](https://github.com/jakewan/semantic-release-sandbox-3/compare/3.1.0-jacob-beta.1...3.1.0-jacob-beta.2) (2021-06-28)
+
+
+### Features
+
+* Begin work on Feature 5 ([a4a825e](https://github.com/jakewan/semantic-release-sandbox-3/commit/a4a825e6e7d4142f3dace6b5bd2fcc22dfff8c9b))
+
 # [3.1.0-jacob-beta.1](https://github.com/jakewan/semantic-release-sandbox-3/compare/3.0.0...3.1.0-jacob-beta.1) (2021-06-28)
 
 
