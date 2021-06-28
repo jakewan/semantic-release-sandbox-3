@@ -18,5 +18,9 @@ module.exports = {
       range: "2.x",
     },
     "v3",
+    {
+      name: "jacob-beta",
+      prerelease: true,
+    },
   ],
 };
