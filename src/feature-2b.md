@@ -1,3 +1,3 @@
-# Feature 2
+# Feature 2B
 
-rev 1
+rev 2
