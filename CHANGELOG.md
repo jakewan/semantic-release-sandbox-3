@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/jakewan/semantic-release-sandbox-3/compare/1.2.1...1.2.2) (2021-07-20)
+
+
+### Bug Fixes
+
+* Feature 1 rev 2 ([386324d](https://github.com/jakewan/semantic-release-sandbox-3/commit/386324db1ad72ff33550f512276b6ee38020620b))
+
 ## [1.2.1](https://github.com/jakewan/semantic-release-sandbox-3/compare/1.2.0...1.2.1) (2021-06-26)
 
 
